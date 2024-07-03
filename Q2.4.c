@@ -16,7 +16,7 @@ int main() {
 	if ( z > largest) {
 		largest = z;
 	}
-	printf("So lon nhat la: %d\n", largest);
+	printf("Gia  lon nhat la: %d\n", largest);
 	
 	return 0;
 }
